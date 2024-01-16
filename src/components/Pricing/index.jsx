@@ -65,7 +65,7 @@ export default class Pricing extends React.Component {
             </div>
           </div>
           <hr />
-          <div className="w-full flex items-center justify-between px-12 max-sm:py-10 max-sm:flex-col max-sm:gap-5">
+          <div className="w-full flex items-center justify-between p-12 max-sm:py-10 max-sm:flex-col max-sm:gap-5">
             <div className="font-normal text-slate-400 flex flex-col gap-3">
               <span className="flex items-center gap-3">
                 <img src={check} alt="icon-check" /> <p>Unlimited websites</p>
