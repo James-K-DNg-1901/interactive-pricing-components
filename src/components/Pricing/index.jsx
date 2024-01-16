@@ -59,7 +59,7 @@ export default class Pricing extends React.Component {
               <p className="text-Grayish-Blue text-md">
                 Yearly Billing{" "}
                 <span className="bg-Light-Grayish-Red text-Light-Red rounded-full px-1">
-                  <span className="max-sm:hidden">-</span>25%{" "}
+                  <span className="hidden">-</span>25%{" "}
                   <span className="max-sm:hidden">discount</span>
                 </span>
               </p>
