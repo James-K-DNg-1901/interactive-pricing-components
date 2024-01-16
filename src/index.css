@@ -17,4 +17,7 @@
       background-size: 400%;
     }
   }
+  .background {
+    background-image: url("./assets/images/pattern-circles.svg");
+  }
 }
