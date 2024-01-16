@@ -1,5 +1,6 @@
 import React from "react";
 import check from "../../assets/images/icon-check.svg";
+import '../../index.css'
 
 export default class Pricing extends React.Component {
   state = {
