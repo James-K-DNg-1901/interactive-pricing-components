@@ -18,7 +18,7 @@ export default class Pricing extends React.Component {
   render() {
     return (
       <div className="sm:w-100 w-80 h-100">
-        <div className="w-full h-1/3 bg-circles bg-no-repeat bg-center text-center flex flex-col justify-center gap-3">
+        <div className="background w-full h-1/3 bg-circles bg-no-repeat bg-center text-center flex flex-col justify-center gap-3">
           <h1 className="sm:text-3xl text-lg text-Dark-Desaturated-Blue font-bold">
             Simple, traffic-based pricing
           </h1>
