@@ -10,7 +10,7 @@ export default {
         100: '35rem',
       },
       backgroundImage: {
-        'circles': "url('./src/assets/images/pattern-circles.svg')"
+        'circles': "url('../../assets/images/pattern-circles.svg')"
       },
       colors: {
         'Dark-Desaturated-Blue': 'hsl(227, 35%, 25%)',
